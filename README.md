@@ -3,7 +3,8 @@
 Benvenuti nel repository **Computer Architecture Learning**! Questo progetto contiene appunti e risorse basati sul libro _"Struttura e progetto dei calcolatori"_. È pensato per aiutare gli studenti e gli appassionati di architettura dei calcolatori a comprendere meglio i concetti chiave.
 
 ## Argomenti Trattati
-1. [Capitolo 1: Architettura di base](./Capitolo1/appunti.md)
+1. [Introduzione](introduzione.md)
+2. [Capitolo 1: Architettura di base](./Capitolo1/appunti.md)
 
 ## Come Contribuire
 Siamo aperti a collaborazioni! Se vuoi contribuire:
