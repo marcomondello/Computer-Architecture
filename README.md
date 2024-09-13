@@ -18,5 +18,5 @@ Siamo aperti a collaborazioni! Se vuoi contribuire:
 Per maggiori dettagli, leggi il file [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Contatti
-Se hai domande o suggerimenti, puoi contattarmi tramite [email](mondellomarco03@gmail.com).
+Se hai domande o suggerimenti, puoi scrivere nella sezione "Disussion", oppure contattami tramite [email](mondellomarco03@gmail.com).
 
