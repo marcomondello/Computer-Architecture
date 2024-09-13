@@ -1,6 +1,9 @@
-# Computer Architecture Learning
+# CalcNotes
+## How Computer Thinks
 
-Benvenuti nel repository **Computer Architecture Learning**! Questo progetto contiene appunti e risorse basati sul libro _"Struttura e progetto dei calcolatori"_. È pensato per aiutare gli studenti e gli appassionati di architettura dei calcolatori a comprendere meglio i concetti chiave.
+![CalcNotes Logo](./CALCNOTES(1).png)
+
+Benvenuti nel repository **CalcNotes**! Questo progetto contiene appunti e risorse basati sul libro _"Struttura e progetto dei calcolatori"_. È pensato per aiutare gli studenti e gli appassionati di architettura dei calcolatori a comprendere meglio i concetti chiave.
 
 ## Argomenti Trattati
 1. [Introduzione](introduzione.md)
