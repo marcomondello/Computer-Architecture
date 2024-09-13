@@ -15,7 +15,7 @@ Grazie per visitare e per il vostro interesse!
 
 ## Argomenti Trattati
 1. [Introduzione](introduzione.md)
-2. [Capitolo 1: Architettura di base](./Capitolo1/appunti.md)
+2. [Capitolo 1: Tipi di calcolatori](./Capitolo1/appunti.md)
 
 ## Come Contribuire
 Siamo aperti a collaborazioni! Se vuoi contribuire:
