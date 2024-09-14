@@ -10,3 +10,5 @@ Per trasformare un codice da alto a basso livello occorrono numerosi strati di s
 istruzione in altre più semplici.
 
 Questi strati di software sono organizzati in maniera gerarchica.
+
+![StratiDelSoftware](.././immagini/stratiDelSoftware.png)
