@@ -17,6 +17,7 @@ Grazie per visitare e per il vostro interesse!
 1. [Introduzione](introduzione.md)
 2. [Tipi di calcolatori](./ilCalcolatore/tipiDiCalcolatori.md)
 3. [Cosa c'è dietro ad un programma](./ilCalcolatore/cosaCeDietroAdUnProgramma.md)
+4. [Hardware](./ilCalcolatore/Hardware.md)
 
 ## Come Contribuire
 Siamo aperti a collaborazioni! Se vuoi contribuire:

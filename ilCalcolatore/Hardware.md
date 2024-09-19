@@ -1,0 +1,1 @@
+#Hardware del calcolatore
