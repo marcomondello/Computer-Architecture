@@ -14,6 +14,9 @@ La mia speranza è che questa repository diventi una risorsa utile e stimolante 
 Grazie per visitare e per il vostro interesse!
 
 ## Argomenti Trattati
+
+"Queste spiegazione mirano a rendere più accessibile il funzionamento di un calcolatore anche per un pubblico non tecnico"
+
 1. [Introduzione](introduzione.md)
 2. [Tipi di calcolatori](./ilCalcolatore/tipiDiCalcolatori.md)
 3. [Cosa c'è dietro ad un programma](./ilCalcolatore/cosaCeDietroAdUnProgramma.md)
@@ -23,12 +26,12 @@ Grazie per visitare e per il vostro interesse!
 Siamo aperti a collaborazioni! Se vuoi contribuire:
 - Aggiungi nuove sezioni di appunti.
 - Correggi eventuali errori.
-- Aggiungi esempi di codice o diagrammi.
+- Aggiungi esempi di codice, diagrammi o immagini.
 
 Per maggiori dettagli, leggi il file [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## Collaboratori
-Attualmente sono l'unico collaboratore di questo progetto. Tuttavia spero di accogliere presto nuovi memebri. 
+Attualmente sono l'unico collaboratore di questo progetto. Tuttavia spero di accogliere presto nuovi membri. 
 
 **Collaboratori**:
 
