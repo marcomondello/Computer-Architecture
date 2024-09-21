@@ -11,7 +11,7 @@ Imparare qualcosa di nuovo e lavorare su progetti senza la possibilità di condi
 
 La mia speranza è che questa repository diventi una risorsa utile e stimolante per tutti coloro che vogliono esplorare e comprendere meglio l'architettura dei computer. Ogni contributo è benvenuto e sarà molto apprezzato.
 
-Grazie per visitare e per il vostro interesse!
+
 
 ## Argomenti Trattati
 
