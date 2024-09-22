@@ -4,7 +4,7 @@ Seleziona lingua: [Inglese 🇬🇧](../README.md)
 
 ## Come pensano i computer
 
-![CalcNotes Logo](../images/CALCNOTES(1).png)
+![CalcNotes Logo](../images/compArchPic.png)
 
 ## Benvenuti!
 Mi chiamo Marco Mondello e ho creato questa repository per condividere e approfondire la mia passione per l'architettura dei computer. Attualmente, sto leggendo il libro "Struttura e Progetto dei Calcolatori", e questa materia mi ha catturato così tanto da voler costruire uno spazio collaborativo dedicato a questo affascinante argomento.

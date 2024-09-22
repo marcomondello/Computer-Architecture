@@ -5,7 +5,7 @@ Change language: [Italian 🇮🇹](ilCalcolatore/READMEita.md)
 
 ## How Computers Think
 
-![CalcNotes Logo](./images/CALCNOTES(1).png)
+![CalcNotes Logo](./images/compArchPic.png)
 
 ## Welcome!
 My name is Marco Mondello, and I created this repository to share and deepen my passion for computer architecture. Currently, I’m reading the book "Computer Organization and Design", and this subject has fascinated me so much that I wanted to create a collaborative space dedicated to this captivating topic.
