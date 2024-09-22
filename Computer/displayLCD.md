@@ -21,5 +21,5 @@ Finally, to produce colors, the light passes through a color filter. Each pixel 
 
 All these layers work together in synchronization, allowing LCD screens to generate high-definition images with relatively low energy consumption.
 
-![displayLCD](.././images/LCDScreen.jpg)
+![displayLCD](.././images/schermoLCD.jpg)
 

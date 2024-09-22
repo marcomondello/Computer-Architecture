@@ -3,4 +3,4 @@ Dopo aver dato un'occhiata a quello che c'è dietro i vostri programmi e come il
 
 
 
-1. [Il display LCD](displayLCD.md)
+1. [Il display LCD](schermoLCD.md)

@@ -11,7 +11,7 @@ istruzione in altre più semplici.
 
 Questi strati di software sono organizzati in maniera gerarchica come nella seguente figura.
 
-![StratiDelSoftware](.././immagini/stratiDelSoftware.png)
+![StratiDelSoftware](../images/stratiDelSoftware.png)
 
 Nel cerchio estrerno torviamo il **software applicativo**, ovvero tutte le applicazioni e programmi. Se hai mai utilizzato un browser per navigare su Internet o un’app per modificare una foto, hai già interagito con il software applicativo. Questi programmi funzionano grazie al software di sistema che lavora dietro le quinte. 
 

@@ -1,42 +1,45 @@
-# CalcNotes
-## How Computer Thinks
+# Computer Architecture
 
-![CalcNotes Logo](./immagini/CALCNOTES(1).png)
-
-## Benvenuti!
-Mi chiamo Marco Mondello e ho creato questa repository per condividere e approfondire la mia passione per l'architettura dei computer. Attualmente, sto leggendo il libro "Struttura e Progetto dei Calcolatori", e questa materia mi ha catturato così tanto da voler costruire uno spazio collaborativo dedicato a questo affascinante argomento.
-
-Perché questa repository?
-Imparare qualcosa di nuovo e lavorare su progetti senza la possibilità di condividere ciò che si scopre e i risultati ottenuti può essere piuttosto frustrante. Questa repository nasce con l'idea di essere uno spazio dove chiunque sia interessato può consultare e apprendere dagli appunti raccolti. Non solo, è pensata per essere un ambiente collaborativo dove chiunque può contribuire con modifiche, miglioramenti, o addirittura aggiungere nuovi capitoli e sezioni su argomenti rilevanti dell'architettura dei computer.
-
-La mia speranza è che questa repository diventi una risorsa utile e stimolante per tutti coloro che vogliono esplorare e comprendere meglio l'architettura dei computer. Ogni contributo è benvenuto e sarà molto apprezzato.
+Change language: [Italian 🇮🇹](ilCalcolatore/READMEita.md)
 
 
+## How Computers Think
 
-## Argomenti Trattati
+![CalcNotes Logo](./images/CALCNOTES(1).png)
 
-"Queste spiegazione mirano a rendere più accessibile il funzionamento di un calcolatore anche per un pubblico non tecnico"
+## Welcome!
+My name is Marco Mondello, and I created this repository to share and deepen my passion for computer architecture. Currently, I’m reading the book "Computer Organization and Design", and this subject has fascinated me so much that I wanted to create a collaborative space dedicated to this captivating topic.
 
-1. [Introduzione](introduzione.md)
-2. [Tipi di calcolatori](./ilCalcolatore/tipiDiCalcolatori.md)
-3. [Cosa c'è dietro ad un programma](./ilCalcolatore/cosaCeDietroAdUnProgramma.md)
-4. [Hardware](./ilCalcolatore/Hardware.md)
+### Why this repository?
+Learning something new and working on projects without the ability to share your discoveries and results can be quite frustrating. This repository was created with the idea of being a space where anyone interested can consult and learn from the collected notes. Moreover, it is intended to be a collaborative environment where anyone can contribute by making changes, improvements, or even adding new chapters and sections on relevant computer architecture topics.
 
-## Come Contribuire
-Siamo aperti a collaborazioni! Se vuoi contribuire:
-- Aggiungi nuove sezioni di appunti.
-- Correggi eventuali errori.
-- Aggiungi esempi di codice, diagrammi o immagini.
+My hope is that this repository becomes a useful and stimulating resource for everyone who wants to explore and better understand computer architecture. Every contribution is welcome and will be greatly appreciated.
 
-Per maggiori dettagli, leggi il file [CONTRIBUTING.md](./CONTRIBUTING.md).
+## Topics Covered
 
-## Collaboratori
-Attualmente sono l'unico collaboratore di questo progetto. Tuttavia spero di accogliere presto nuovi membri. 
+"These explanations aim to make the workings of a computer more accessible, even to a non-technical audience."
 
-**Collaboratori**:
+1. [Introduction](Computer/introduction.md)
+2. [Types of Computers](Computer/computerModels.md)
+3. [What’s behind a Program](Computer/behindAProgram.md)
+4. [Hardware](Computer/Hardware.md)
 
--Marco Mondello (creator)
+## How to Contribute
+We are open to collaborations! If you'd like to contribute:
+- Add new sections of notes.
+- Correct any errors.
+- Add code examples, diagrams, or images.
 
-## Contatti
-Se hai domande o suggerimenti, puoi scrivere nella sezione "Disussion", oppure contattami tramite [email](mondellomarco03@gmail.com).
+For more details, read the [CONTRIBUTING.md](./CONTRIBUTING.md) file.
+
+## Contributors
+Currently, I’m the only contributor to this project. However, I hope to welcome new members soon.
+
+**Contributors**:
+
+- Marco Mondello (creator)
+
+## Contact
+If you have any questions or suggestions, feel free to write in the "Discussion" section or contact me via [email](mondellomarco03@gmail.com).
+
 
