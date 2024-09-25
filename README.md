@@ -8,7 +8,7 @@ Change language: [Italian 🇮🇹](ilCalcolatore/READMEita.md)
 ![CalcNotes Logo](./images/compArchPic.png)
 
 ## Welcome!
-My name is Marco Mondello, and I created this repository to share and deepen my passion for computer architecture. Currently, I’m reading the book "Computer Organization and Design", and this subject has fascinated me so much that I wanted to create a collaborative space dedicated to this captivating topic.
+My name is Marco Mondello, and I created this repository to share and deepen my passion for computer architecture. Currently, I’m reading the book "Computer Organization and Design", and this subject has fascinated me so much that I wanted to create a collaborative space dedicated to this _wonderful world_ 🌎.
 
 ### Why this repository?
 Learning something new and working on projects without the ability to share your discoveries and results can be quite frustrating. This repository was created with the idea of being a space where anyone interested can consult and learn from the collected notes. Moreover, it is intended to be a collaborative environment where anyone can contribute by making changes, improvements, or even adding new chapters and sections on relevant computer architecture topics.
