@@ -20,9 +20,8 @@ My hope is that this repository becomes a useful and stimulating resource for ev
 "These explanations aim to make the workings of a computer more accessible, even to a non-technical audience."
 
 1. [Introduction](Computer/introduction.md)
-2. [Types of Computers](Computer/computerModels.md)
-3. [What’s behind a Program](Computer/behindAProgram.md)
-4. [Hardware](Computer/Hardware.md)
+2. [What’s behind a Program](Computer/behindAProgram.md)
+3. [Hardware](Computer/Hardware.md)
 
 ## How to Contribute
 We are open to collaborations! If you'd like to contribute:

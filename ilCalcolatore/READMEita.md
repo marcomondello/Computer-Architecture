@@ -21,9 +21,8 @@ La mia speranza è che questa repository diventi una risorsa utile e stimolante 
 "Queste spiegazione mirano a rendere più accessibile il funzionamento di un calcolatore anche per un pubblico non tecnico"
 
 1. [Introduzione](introduzione.md)
-2. [Tipi di calcolatori](tipiDiCalcolatori.md)
-3. [Cosa c'è dietro ad un programma](cosaCeDietroAdUnProgramma.md)
-4. [Hardware](Hardware_ita.md)
+2. [Cosa c'è dietro ad un programma](cosaCeDietroAdUnProgramma.md)
+3. [Hardware](Hardware_ita.md)
 
 ## Come Contribuire
 Siamo aperti a collaborazioni! Se vuoi contribuire:
